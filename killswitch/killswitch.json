@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "key": "abc123",
+      "key": "kkpp-1",
       "disabled": false,
       "allowedIPs": ["103.177.252.53", "127.0.0.1"]
     }
