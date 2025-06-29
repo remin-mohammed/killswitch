@@ -3,7 +3,7 @@
     {
       "key": "kkpp-1",
       "disabled": false,
-      "allowedIPs": ["103.177.252.5"]
+      "allowedIPs": ["103.177.252.53"]
     }
   ]
 }
