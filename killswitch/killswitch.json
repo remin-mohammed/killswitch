@@ -3,7 +3,7 @@
     {
       "key": "kkpp-1",
       "disabled": false,
-      "allowedIPs": ["34.93.100.132"]
+      "allowedIPs": ["103.155.223.7","34.93.100.132"]
     },
       {
       "key": "origin-safezone",
