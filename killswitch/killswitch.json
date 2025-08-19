@@ -8,7 +8,7 @@
       {
       "key": "origin-safezone",
       "disabled": false,
-      "allowedIPs": ["103.149.158.54","148.113.31.107"]
+      "allowedIPs": ["103.149.158.54","31.58.143.178"]
     }
   ]
 }
